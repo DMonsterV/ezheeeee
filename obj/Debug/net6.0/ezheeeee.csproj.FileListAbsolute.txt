@@ -1,0 +1,14 @@
+C:\Users\foxso\source\repos\ezheeeee\bin\Debug\net6.0\ezheeeee.exe
+C:\Users\foxso\source\repos\ezheeeee\bin\Debug\net6.0\ezheeeee.deps.json
+C:\Users\foxso\source\repos\ezheeeee\bin\Debug\net6.0\ezheeeee.runtimeconfig.json
+C:\Users\foxso\source\repos\ezheeeee\bin\Debug\net6.0\ezheeeee.dll
+C:\Users\foxso\source\repos\ezheeeee\bin\Debug\net6.0\ezheeeee.pdb
+C:\Users\foxso\source\repos\ezheeeee\obj\Debug\net6.0\ezheeeee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxso\source\repos\ezheeeee\obj\Debug\net6.0\ezheeeee.AssemblyInfoInputs.cache
+C:\Users\foxso\source\repos\ezheeeee\obj\Debug\net6.0\ezheeeee.AssemblyInfo.cs
+C:\Users\foxso\source\repos\ezheeeee\obj\Debug\net6.0\ezheeeee.csproj.CoreCompileInputs.cache
+C:\Users\foxso\source\repos\ezheeeee\obj\Debug\net6.0\ezheeeee.dll
+C:\Users\foxso\source\repos\ezheeeee\obj\Debug\net6.0\refint\ezheeeee.dll
+C:\Users\foxso\source\repos\ezheeeee\obj\Debug\net6.0\ezheeeee.pdb
+C:\Users\foxso\source\repos\ezheeeee\obj\Debug\net6.0\ezheeeee.genruntimeconfig.cache
+C:\Users\foxso\source\repos\ezheeeee\obj\Debug\net6.0\ref\ezheeeee.dll
